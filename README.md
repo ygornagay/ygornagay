@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNqOWt6cGFpeW01NGg4dXNwaXI0enUzanpoNGNhNGFrbGZ6cGMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="280px">
 
-**Técnico em Desenvolvimento de Sistemas | Processos Industriais | Indústria 4.0** 🚀
+**Técnico em Desenvolvimento de Sistemas | Processos Industriais | Indústria 4.0** 
 
 Profissional com base sólida em TI e formação industrial pelo SENAI.  
 Foco em organização operacional, troubleshooting, automação e melhoria contínua.  
