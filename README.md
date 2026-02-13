@@ -14,9 +14,9 @@ Interesse prático em programação, infraestrutura e inteligência artificial a
 
 ### 🔗 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ygor%20Nagay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygornagay/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Site-brightgreen?style=for-the-badge&logo=netlify&logoColor=white)](https://ygornagaycv.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ygornagay@gmail.com)
+<a href="https://www.linkedin.com/in/ygornagay/" target="_blank">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ygor%20Nagay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygornagay/)</a>
+<a href="https://ygornagaycv.netlify.app/" target="_blank">[![Portfólio](https://img.shields.io/badge/Portfólio-Site-brightgreen?style=for-the-badge&logo=netlify&logoColor=white)](https://ygornagaycv.netlify.app/)</a>
+<a href="mailto:ygornagay@gmail.com" target="_blank">[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ygornagay@gmail.com)</a>
 
 ### 🛠️ Tecnologias e Ferramentas
 
